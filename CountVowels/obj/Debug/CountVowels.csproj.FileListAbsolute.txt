@@ -1,0 +1,14 @@
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csprojAssemblyReference.cache
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\MainWindow.g.cs
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\App.g.cs
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels_MarkupCompile.cache
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels_MarkupCompile.lref
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\MainWindow.baml
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.g.resources
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.Properties.Resources.resources
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.GenerateResource.cache
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.exe
+C:\Users\nwesp\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.pdb
